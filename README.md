@@ -1,6 +1,6 @@
 ## Luisa Fda Gómez 
 
-I am a PhD Estudent in Systems Engineering in the Department of Computer Science. Universidad Nacional, [Facultad de Minas](https://minas.medellin.unal.edu.co). My research interests include Geographic Information Science (GIS), remote sensing, and Machine Learning (ML). More specifically, I am interestd in applying  geoespatial big data and ML to environmental modeling, specially Land use and land cover change (LULCC). I am passionate about life and knowledge, always in constant learning.
+I am a PhD Estudent in Systems Engineering in the Department of Computer Science. Universidad Nacional, [Facultad de Minas](https://minas.medellin.unal.edu.co). My research interests include Geographic Information Science (GIS), remote sensing, and Machine Learning (ML). More specifically, I am interested in applying  geoespatial big data and ML to environmental modeling, specially Land use and land cover change (LULCC). I am passionate about life and knowledge, always in constant learning.
 
 
 
