@@ -1,3 +1,6 @@
+## Luisa Fda Gómez 
+
+I am a PhD Estudent in Systems Engineering in the Department of Computer Science. Universidad Nacional, [Facultad de Minas](https://minas.medellin.unal.edu.co) 
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
