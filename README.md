@@ -1,6 +1,14 @@
 ## Luisa Fda Gómez 
 
 I am a PhD Estudent in Systems Engineering in the Department of Computer Science. Universidad Nacional, [Facultad de Minas](https://minas.medellin.unal.edu.co) 
+
+### Education
+
+* **MSc** in _Environment and Development_. Researching area : Geospatial Analysis
+* **BS** in _Forest Engineer_.
+
+![](https://www.hotelwyndhambogota.com/wp-content/uploads/2019/02/escudoUnal_black.png)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
