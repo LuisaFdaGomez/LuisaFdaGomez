@@ -6,7 +6,6 @@ I am a PhD Estudent in Systems Engineering in the Department of Computer Science
 
 * **MSc** in _Environment and Development_. Researching Area : Geospatial Analysis
 * **BS** in _Forest Engineer_.
-
 ![](https://www.hotelwyndhambogota.com/wp-content/uploads/2019/02/escudoUnal_black.png)
 
 ### Hi there 👋
